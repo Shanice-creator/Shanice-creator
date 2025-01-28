@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi, I’m Shanice Williams, a passionate learner currently on an exciting journey with Just IT, where I’m developing the skills to become a proficient Data Analyst. As part of my learning, I’m mastering tools like Excel, Power BI, Python, and SQL, while also using GitHub to create and showcase a promising website. This project reflects my dedication to combining creativity and technical expertise to build meaningful, data-driven solutions. I’m eager to grow, connect, and contribute to the field of data analysis.
+Hi, I’m Shanice Williams, a dedicated and ambitious learner currently pursuing a career as a Data Analyst. My learning journey with Just IT has been both exciting and transformative, as I develop essential skills in tools like Excel, Power BI, Python, SQL, and more. Alongside these technical capabilities, I’m using GitHub to create and showcase a promising website, demonstrating my ability to combine creativity with technical expertise.
 
+My academic background includes a Level 3 BTEC in Business and IT, which provided me with a strong foundation in problem-solving, data management, and organisational skills, as well as an A-Level in Geography, which enhanced my analytical thinking and ability to interpret complex data patterns. These experiences have shaped my passion for using data to uncover insights and drive meaningful decisions.
+
+I’m excited to continue growing as a Data Analyst, leveraging my skills and knowledge to contribute to innovative, data-driven solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
