@@ -10,7 +10,9 @@ I’m excited to continue growing as a Data Analyst, leveraging my skills and kn
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
+<a href="https://www.linkedin.com/feed/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="163" height="36" alt="LinkedIn Logo" />
+</a>
 
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="163" height="36" alt="MySQL Logo" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="163" height="36" alt="Python Logo" /><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="163" height="36" alt="Power BI Logo" /><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" width="163" height="36" alt="Pandas Logo" /><a href="https://public.tableau.com/app/profile/shanice.williams1516/vizzes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /> </a>
